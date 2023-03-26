@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\ElSoldado\ElSoldado\model\model.h(1,1): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Lenovo\source\repos\ElSoldado\ElSoldado\model\model.h(2,1): error C2008: '.': no se esperaba en la definición de macro
+C:\Users\Lenovo\source\repos\ElSoldado\ElSoldado\model\model.h(7,9): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\Lenovo\source\repos\ElSoldado\ElSoldado\model\model.h(7,16): error C2059: error de sintaxis: '='
+C:\Users\Lenovo\source\repos\ElSoldado\ElSoldado\model\model.h(7,21): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Lenovo\source\repos\ElSoldado\ElSoldado\view\view.h(1,1): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Lenovo\source\repos\ElSoldado\ElSoldado\view\view.h(2,1): error C2008: '.': no se esperaba en la definición de macro
